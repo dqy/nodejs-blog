@@ -8,6 +8,7 @@
 
 #BASE ON
 - [nodejs](https://nodejs.org/)
+- [spm](http://spmjs.io/)
 - [express](https://github.com/visionmedia/express)
 - [mongoose](https://github.com/LearnBoost/mongoose)
 
