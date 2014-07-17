@@ -2,8 +2,8 @@
 
 
 #AUTHORS
-- [cloudcome](http://ydr.me) [https://github.com/cloudcome/](https://github.com/cloudcome/)
-- you
+- __[cloudcome](http://ydr.me)__: [https://github.com/cloudcome/](https://github.com/cloudcome/)
+- __you__
 
 
 #BASE ON
